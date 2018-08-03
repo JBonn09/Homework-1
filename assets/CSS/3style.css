@@ -1,0 +1,86 @@
+body {
+    background: url("https://i.pinimg.com/originals/d4/01/b2/d401b2877c5fae35b50f1f8181dad9a3.jpg");
+    background-size: repeat;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size:  30px;
+    font-display: bolder;
+    
+}
+
+
+#portfolio {
+    
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/HD-Triforce-Photos.jpg");
+    background-repeat: repeat;
+    background-size: 70px;
+    contain: inherit;
+    font-size: 30px;
+    color: white;
+    
+    border-bottom: 2px solid black;
+
+}
+
+.p1 {
+    float: left;
+    margin: 20px;
+    padding: 40px;
+    border: inset 3px blanchedalmond;
+    
+    
+    
+}
+
+
+.p2 {
+    float: right;
+    margin: 20px;
+    padding: 30px;
+    border: inset 3px blanchedalmond;
+    
+    
+}
+
+.p3 {
+    float: left;
+    margin: 20px;
+    padding: 30px;
+    border: inset 3px blanchedalmond;
+   
+   
+}
+
+.p4 {
+    float: left;
+    margin: 30px;
+    padding: 20px;
+    border-width: 20px;
+    border: inset 2px blanchedalmond;
+    
+}
+
+
+a {
+    
+    text-decoration: none;
+    color: black;
+    display: ruby-base;
+}
+
+
+
+ .nav {
+     font-size: 20px;
+     margin: auto;
+     padding: 0%;
+     float: right;
+     border-left: 1px solid black;
+    }
+
+.nav a {
+
+    padding: 20px;
+}

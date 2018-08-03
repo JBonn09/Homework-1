@@ -1,13 +1,67 @@
-body {
-    padding: 0;
-    margin: 0%;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
-    line-height: 150%;
-    color: black;
-    background: #efeee7;
+h1 {
+    margin: 30px;
+    font-family: cursive;
+
+
 }
 
-header {
-    background: black;
+
+body {
+    background: url("https://i.pinimg.com/originals/d4/01/b2/d401b2877c5fae35b50f1f8181dad9a3.jpg");
+
 }
+
+h2 {
+    font-family:cursive
+}
+
+
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+
+ .nav {
+     font-size: 20px;
+     margin: auto;
+     padding: 0%;
+     float: right;
+     border-left: 1px solid black;
+     border-right: 1px solid black;
+     
+    }
+
+.nav a {
+    padding: 10px;
+}
+
+
+.img-1 {
+    float: left;
+    width: auto;
+    height: auto;
+    padding: 30px;
+    background: black;
+    border: 1px solid black;
+    display: inherit;
+}
+
+
+
+
+.box-set {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    float: left;
+    width: 620px;
+    height: 250px;
+    padding: 20px;
+    margin: 10px;
+    border: 7px inset blanchedalmond;
+    display: ruby;
+  }
+
+  
+
